@@ -5,15 +5,21 @@
 
 <h3> 🤗 Welcome 🤗 </h3>
 
+</div>
 
 # info
 #### 🌱 BeomCheol Park
 #### 🎂 Apr.6rd.1999
 
+#
+
 
   
 <br/><br/>
+<div align = "center">
   
-<h3>💻 Tech Stack 💻</h3>
-  
+  <h3>💻 Tech Stack 💻</h3>
+
+</div>
+
 <br/>
