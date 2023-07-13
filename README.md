@@ -17,6 +17,7 @@
 
 # 💻 Tech Stack 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bomtori&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)![Bomtori's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bomtori&show_icons=true&theme=radical)   
+![Bomtori's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bomtori&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bomtori&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br/>
