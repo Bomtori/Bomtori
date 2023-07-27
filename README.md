@@ -9,7 +9,7 @@
 
 # 🦊 info
 #### 🌱 BeomCheol Park
-#### 🎂 Apr.6rd.1999
+#### 🎂 4.6.1999
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kawlao46)](https://solved.ac/kawlao46/)
 #
 
