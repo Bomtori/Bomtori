@@ -25,6 +25,9 @@
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
+  </a>
   <a href="https://swift.org/">
     <img src="https://img.shields.io/badge/Swift-5.0-orange?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
   </a>
@@ -60,12 +63,18 @@
   <a href="https://www.anaconda.com/">
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
   </a>
+  <a href="https://www.springboot.com/">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+  </a>
   <br>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   </a>
 </div>
 
