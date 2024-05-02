@@ -1,6 +1,6 @@
 <div align = "center">
 
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Bomtori&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=BeomCheol-Park&fontSize=70&fontAlignY=40&desc=Thank%20you%20for%20visiting%20myPage.&descSize=20&descAlign=65&descAlignY=57&animation=fadeIn)
   
 
 <h3> 🤗 Welcome 🤗 </h3>
